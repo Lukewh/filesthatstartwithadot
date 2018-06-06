@@ -9,6 +9,7 @@ ln -s $PWD/xinit ~/.xinit
 ln -s $PWD/zshrc ~/.zshrc
 
 ln -s $PWD/config/i3 ~/.config/i3
+ln -s $PWD/config/i3status ~/.config/i3status
 ln -s $PWD/config/lxterminal ~/.config/lxterminal
 ln -s $PWD/config/Thunar ~/.config/Thunar
 ln -s $PWD/config/xfce4 ~/.config/xfce4
